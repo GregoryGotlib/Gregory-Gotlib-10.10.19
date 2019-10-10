@@ -20,3 +20,9 @@
 .App-link {
   color: #09d3ac;
 }
+.grid-container{
+    position: relative;
+    background: url('../src/style/weatherBack.jpg') no-repeat;
+    background-size: cover;
+    background-position: center;
+}

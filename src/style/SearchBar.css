@@ -1,0 +1,15 @@
+.search-input-container .search-input-container__inner {
+    width: 400px;
+    position: absolute;
+    margin-top: 20px;
+}
+
+.search-input-container .suggestion-input:focus {
+    border-bottom: 1px solid blueviolet !important;
+}
+
+.container {
+    max-width: 1140px;
+    text-align: -webkit-center;
+    margin-top: 50px;
+}

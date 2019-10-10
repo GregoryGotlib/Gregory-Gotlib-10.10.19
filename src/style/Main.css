@@ -1,0 +1,52 @@
+svg {
+    overflow: hidden;
+    vertical-align: middle;
+    display: flex;
+    margin-top: 100px;
+}
+.grid-container{
+display: flex;
+    flex-direction: column;
+    text-align: -webkit-center;
+}
+
+.ui.big.search {
+    font-size: 15px;
+}
+
+.ui.button {
+    border-bottom: 1px solid black;
+    border-radius: 0px;
+    background: none;
+}
+
+.ui.teal.button, .ui.teal.buttons .button {
+    background-color: transparent;
+    text-shadow: none;
+    background-image: none;
+}
+
+.ui.teal.button:hover, .ui.teal.buttons .button:hover {
+    background-color: transparent;
+    color: blueviolet;
+    text-shadow: none;
+}
+
+.ui.teal.active.button, .ui.teal.button .active.button:active, .ui.teal.buttons .active.button, .ui.teal.buttons .active.button:active {
+    background-color: transparent;
+    color: rgb(203, 172, 231);
+    text-shadow: none;
+}
+
+.weather-container{
+    display: flex;
+    flex-flow: column;
+    max-width: 178px;
+    border-color: black;
+}
+
+#footer{
+    width: 100%;
+    position: fixed;
+    bottom: 0px;
+}

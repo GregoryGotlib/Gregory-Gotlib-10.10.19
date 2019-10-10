@@ -1,0 +1,23 @@
+#empty-fav-jumbotron {
+    background-color: #f6f6f6;
+    display: flex;
+    flex-wrap: wrap;
+    max-width: 800px;
+    margin: 90px auto;
+    border-radius: 59px;
+}
+
+.display-4 {
+    font-size: 3.5rem;
+    font-weight: 300;
+    line-height: 0.2;
+    display: flex;
+    margin-left: 206px;
+}
+
+#empty-fav-p {
+    display: flex;
+    align-self: flex-end;
+    position: inherit;
+    margin: 55px 0px 0px 174px;
+}

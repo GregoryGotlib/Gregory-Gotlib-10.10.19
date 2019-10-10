@@ -1,0 +1,11 @@
+
+#forecast-container-row{
+    justify-content: space-evenly;
+}
+
+#forecast-card-group{
+    width: max-content;
+    margin-top: 20px;
+    margin-bottom: 80px;
+
+}

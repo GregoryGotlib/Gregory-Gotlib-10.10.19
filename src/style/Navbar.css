@@ -1,0 +1,40 @@
+.navbar{
+    /*background-color: blueviolet !important;*/
+}
+
+.navbar-brand{
+   color:lightgrey;
+}
+.navbar-brand:hover{
+    color:white;
+ }
+
+ .navbar-nav .nav-link{
+   color:lightgrey;
+ }
+
+ .navbar-nav .nav-link:hover{
+    color:white;
+ }
+
+ .ui.fitted.toggle.checkbox {
+   width: 3.5rem;
+   margin-top: 9px;
+   display: inline-flex;
+   margin-right: 5px;
+ }
+
+ #toggle-header{
+   margin: 8px 16px 0px 0px;
+   margin-right: 9px;
+   color: aliceblue;
+
+ }
+
+ .ui.toggle.checkbox .box:before, .ui.toggle.checkbox label:before {
+ }
+
+ #toggle-container{
+   display: flex;
+   margin-right: 5px;
+ }
